@@ -1,0 +1,56 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+test of push
+<<<<<<< HEAD
+
+<<<<<<< HEAD
+konflikt test
+=======
+<<<<<<< HEAD
+Yo Yo Yo
+=======
+ein riesenkonflikt!
+>>>>>>> 02c3c2f563f82a45929a139bbb019bd8d3197e0c
+>>>>>>> 5df3ae379e88ab5e39d288ca98ce7fa2514b8c62
+=======
+<<<<<<< HEAD
+
+conconconconcocncocncoooooooooooooooonflict
+
+hehe
+hehehehe
+coooooooooooooooooooooooooonflict
+for sure
+muhahahahahaha
+<<<<<<< HEAD
+>>>>>>> 1c123a0d838f1b2083bc39e8cb9dede99772e954
+=======
+
+ein riesenkonflikt!!!
+<<<<<<< HEAD
+>>>>>>> 33c1b721e531b2e10edc14837b09e1358bfc1b98
+=======
+<<<<<<< HEAD
+>>>>>>> 33c1b721e531b2e10edc14837b09e1358bfc1b98
+
+
+
+HILFE. DIE DINOSAURIER KOMMEN
+=======
+
+hilfe!!!
+>>>>>>> 8cf033096c0eddd961dd007bb45e315050ba2de0
+
+
+
+
+Last confusion
+<<<<<<< HEAD
+>>>>>>> 5df3ae379e88ab5e39d288ca98ce7fa2514b8c62
+=======
+>>>>>>> 8cf033096c0eddd961dd007bb45e315050ba2de0
+>>>>>>> de5a4ebff9c8978d61e7cf898626fd8d451ac5b5
+>>>>>>> 373e090eda47b628626c9a0ffebe23be8287fde6
+>>>>>>> 6fd1ebfd2b77ba4c90fd7f18ec644d667361cd40
