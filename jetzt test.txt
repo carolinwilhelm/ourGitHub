@@ -17,8 +17,13 @@ muhahahahahaha
 =======
 
 ein riesenkonflikt!!!
+<<<<<<< HEAD
 >>>>>>> 33c1b721e531b2e10edc14837b09e1358bfc1b98
 
 
 
 HILFE. DIE DINOSAURIER KOMMEN
+=======
+
+hilfe!!!
+>>>>>>> 8cf033096c0eddd961dd007bb45e315050ba2de0
