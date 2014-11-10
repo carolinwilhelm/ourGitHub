@@ -1,3 +1,7 @@
 test of push
 
+<<<<<<< HEAD
 Yo Yo Yo
+=======
+ein riesenkonflikt!
+>>>>>>> 02c3c2f563f82a45929a139bbb019bd8d3197e0c
