@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+=======
 test of push
 <<<<<<< HEAD
 
@@ -11,6 +13,10 @@ ein riesenkonflikt!
 >>>>>>> 02c3c2f563f82a45929a139bbb019bd8d3197e0c
 >>>>>>> 5df3ae379e88ab5e39d288ca98ce7fa2514b8c62
 =======
+<<<<<<< HEAD
+
+conconconconcocncocncoooooooooooooooonflict
+
 hehe
 hehehehe
 coooooooooooooooooooooooooonflict
@@ -39,4 +45,9 @@ hilfe!!!
 
 
 Last confusion
+<<<<<<< HEAD
 >>>>>>> 5df3ae379e88ab5e39d288ca98ce7fa2514b8c62
+=======
+>>>>>>> 8cf033096c0eddd961dd007bb45e315050ba2de0
+>>>>>>> de5a4ebff9c8978d61e7cf898626fd8d451ac5b5
+>>>>>>> 373e090eda47b628626c9a0ffebe23be8287fde6
