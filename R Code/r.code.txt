@@ -1,0 +1,2 @@
+B1=glm(Tb ~LengthCT, family = binomial, data = Boar) # logit link is the default
+summary(B1)
