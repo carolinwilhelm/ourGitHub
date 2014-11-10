@@ -12,4 +12,13 @@ hehehehe
 coooooooooooooooooooooooooonflict
 for sure
 muhahahahahaha
+<<<<<<< HEAD
 >>>>>>> 1c123a0d838f1b2083bc39e8cb9dede99772e954
+=======
+
+ein riesenkonflikt!!!
+>>>>>>> 33c1b721e531b2e10edc14837b09e1358bfc1b98
+
+
+
+HILFE. DIE DINOSAURIER KOMMEN
