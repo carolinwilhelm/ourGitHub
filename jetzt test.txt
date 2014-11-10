@@ -1,3 +1,15 @@
 test of push
+<<<<<<< HEAD
 
 conconconconcocncocncoooooooooooooooonflict
+
+hehe
+hehehehe
+coooooooooooooooooooooooooonflict
+for sure
+muhahahahahaha
+
+ein riesenkonflikt!!!
+
+hilfe!!!
+>>>>>>> 8cf033096c0eddd961dd007bb45e315050ba2de0
