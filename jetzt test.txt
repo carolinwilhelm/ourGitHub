@@ -1,3 +1,13 @@
 test of push
+<<<<<<< HEAD
 
 konflikt test
+=======
+hehe
+hehehehe
+coooooooooooooooooooooooooonflict
+for sure
+muhahahahahaha
+
+ein riesenkonflikt!!!
+>>>>>>> 33c1b721e531b2e10edc14837b09e1358bfc1b98
